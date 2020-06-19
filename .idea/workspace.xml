@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c1238af-149f-4a65-bdb7-e81404c0aa0f" name="Default Changelist" comment="" />
+    <list default="true" id="8c1238af-149f-4a65-bdb7-e81404c0aa0f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +27,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1dD09D38J5HtFA6IiXtnkxzxQhp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -128,10 +131,30 @@
       <workItem from="1592274335833" duration="14925000" />
       <workItem from="1592529820691" duration="626000" />
     </task>
+    <task id="LOCAL-00001" summary="add Main7">
+      <created>1592538631444</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592538631444</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add Main6">
+      <created>1592538682607</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1592538682607</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add Main7" />
+    <MESSAGE value="add Main6" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Main6" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="74" key="#Notifications" timestamp="1591971095281">

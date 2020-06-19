@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c1238af-149f-4a65-bdb7-e81404c0aa0f" name="Default Changelist" comment="" />
+    <list default="true" id="8c1238af-149f-4a65-bdb7-e81404c0aa0f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +17,19 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\Workspace\IdeaProjects\firstTest\.idea" />
+      </set>
+    </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -25,6 +39,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1dD09D38J5HtFA6IiXtnkxzxQhp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -126,12 +141,24 @@
       <workItem from="1592012730028" duration="20000" />
       <workItem from="1592189562850" duration="13000" />
       <workItem from="1592274335833" duration="14925000" />
-      <workItem from="1592529820691" duration="626000" />
+      <workItem from="1592529820691" duration="1104000" />
     </task>
+    <task id="LOCAL-00001" summary="【第一次上传】">
+      <created>1592537659561</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592537659561</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="【第一次上传】" />
+    <option name="LAST_COMMIT_MESSAGE" value="【第一次上传】" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="74" key="#Notifications" timestamp="1591971095281">
@@ -150,6 +177,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="162" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1536.824@0.0.1536.824" timestamp="1592275720128" />
+    <state x="385" y="9" key="CommitChangelistDialog2" timestamp="1592537659108">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="385" y="9" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1592537659108" />
     <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1592537542874">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -190,6 +221,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="272" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1591945322863" />
+    <state x="361" y="149" key="Vcs.Push.Dialog.v2" timestamp="1592537888358">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="149" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1592537888358" />
     <state x="461" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1592189563134">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
